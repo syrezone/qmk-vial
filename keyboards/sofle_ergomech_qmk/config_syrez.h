@@ -1,19 +1,19 @@
 #pragma once
 
 
-#define NO_ACTION_MACRO
-#define NO_ACTION_FUNCTION
-#define DISABLE_LEADER
-#define NO_ACTION_ONESHOT
+// #define NO_ACTION_MACRO
+// #define NO_ACTION_FUNCTION
+// #define DISABLE_LEADER
+// #define NO_ACTION_ONESHOT
 // #define VIAL_COMBO_ENTRIES 1
 // #define DYNAMIC_KEYMAP_LAYER_COUNT 3
 
-#define ENCODERS_PAD_A { F5 }
-#define ENCODERS_PAD_B { F4 }
+// #define ENCODERS_PAD_A { F5 }
+// #define ENCODERS_PAD_B { F4 }
 // #define ENCODERS_PAD_A_RIGHT { F4 }
 // #define ENCODERS_PAD_B_RIGHT { F5 }
 
-// #define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 4
 
 // Unfortunately, some applications drop or misorder fast key events. This is a
 // partial fix to slow down the rate at which macros are sent.

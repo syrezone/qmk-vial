@@ -52,3 +52,6 @@
 #        define RGBLIGHT_SAT_STEP 17
 #        define RGBLIGHT_VAL_STEP 17
 #    endif
+
+// #define WEAR_LEVELING_LOGICAL_SIZE 4096  /*8192 is just an example*/
+// #define WEAR_LEVELING_BACKING_SIZE 4096
